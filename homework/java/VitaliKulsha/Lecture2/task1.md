@@ -20,7 +20,7 @@
 - Загаданное пользователем число - inventNumber
 - Вариант ответа - possibleAnswer
 - Банковский счет - bankAccount
-- Банковский баланс - bancBalance
+- Банковский баланс - bankBalance
 - Кредитная карта - creditCard
 - Количество колес у велосипеда - numberOfWheelsOnBike
 - Стоимость билета - ticketPrice
