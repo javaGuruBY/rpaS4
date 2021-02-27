@@ -3,5 +3,5 @@ projectKey=javaGuruBY_java-free-stream-5
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.17649
 dashboardUrl=https://sonarcloud.io/dashboard?id=javaGuruBY_java-free-stream-5
-ceTaskId=AXfVe7xqFW2D2Zalu6rA
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXfVe7xqFW2D2Zalu6rA
+ceTaskId=AXfaMmGPkrvyTOkZ76wp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXfaMmGPkrvyTOkZ76wp

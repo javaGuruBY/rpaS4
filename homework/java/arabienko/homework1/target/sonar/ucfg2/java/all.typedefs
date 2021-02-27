@@ -96,4 +96,7 @@ println(C)java.io.PrintStream#println(C)VK
 1<init>(Ljava/io/OutputStream;ZLjava/lang/String;)Fjava.io.PrintStream#<init>(Ljava/io/OutputStream;ZLjava/lang/String;)VU
 <init>(Ljava/io/OutputStream;)3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V/
 println([C) java.io.PrintStream#println([C)V‹
-9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V
+9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)VÀ
+io.github.arabienko.syntax.Appjava.lang.Object4
+<init>()(io.github.arabienko.syntax.App#<init>()VV
+main([Ljava/lang/String;)9io.github.arabienko.syntax.App#main([Ljava/lang/String;)V
