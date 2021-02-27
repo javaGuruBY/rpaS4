@@ -8,23 +8,23 @@
 Требования:
 Придумать названия для следующих переменных.
 
-Количество кораблей в порту - numbOfShipsInThePort
-Счетчик целых чисел - countInteger
-Первое число -  firstNumber
-Ответ на вопрос - answerToTheQuestion
-Случайное число - randomNumb
-Генератор случайных чисел - randomizer
-Цвет автомобиля - carColor
-Скорость движения автомобиля - travelSpeedCar (carSpeed)
-Введеное число пользователем - enteredNumbUsers
-Наибольшее число - maxNumb
-Наименьшее число - minNumb
-Левая граница диапазона чисел - leftRangeBorder
-Правая граница диапазона чисел - rightRangeBorder
-Загаданное пользователем число - userGuessedNumb
-Вариант ответа - possibleAnswer
-Банковский счет - bankAcc
-Банковский баланс - bankBalance
-Кредитная карта - creditCard
-Количество колес у велосипеда - numbOfWheelsOfTheBike
-Стоимость билета - ticketPerice
+* Количество кораблей в порту - numbOfShipsInThePort
+* Счетчик целых чисел - countInteger
+* Первое число -  firstNumber
+* Ответ на вопрос - answerToTheQuestion
+* Случайное число - randomNumb
+* Генератор случайных чисел - randomizer
+* Цвет автомобиля - carColor
+* Скорость движения автомобиля - travelSpeedCar (carSpeed)
+* Введенное число пользователем - enteredNumbUsers
+* Наибольшее число - maxNumb
+* Наименьшее число - minNumb
+* Левая граница диапазона чисел - leftRangeBorder
+* Правая граница диапазона чисел - rightRangeBorder
+* Загаданное пользователем число - userGuessedNumb
+* Вариант ответа - possibleAnswer
+* Банковский счет - bankAcc
+* Банковский баланс - bankBalance
+* Кредитная карта - creditCard
+* Количество колес у велосипеда - numbOfWheelsOfTheBike
+* Стоимость билета - ticketPerice
