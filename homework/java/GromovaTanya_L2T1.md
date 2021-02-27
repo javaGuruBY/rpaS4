@@ -7,23 +7,23 @@
  
 Придумать названия для следующих переменных:
 
-Количество кораблей в порту - countOfShip
-Счетчик целых чисел - countInt
-Первое число - firstNum
-Ответ на вопрос - answer
-Случайное число - randomNum
-Генератор случайных чисел - randomNumGenerator
-Цвет автомобиля - carColor
-Скорость движения автомобиля - carSpeed
-Введеное число пользователем - userNum
-Наибольшее число - maxNum
-Наименьшее число - minNum
-Левая граница диапазона чисел - leftBorderOfNumbers
-Правая граница диапазона чисел  - rightBorderOfNumbers
-Загаданное пользователем число - userGuessedNumber
-Вариант ответа - possibleAnswer
-Банковский счет - bankAccount
-Банковский баланс - bankBalance
-Кредитная карта - creditCard
-Количество колес у велосипеда - countWheelsOfBicycle
-Стоимость билета - ticketPrice
+-  Количество кораблей в порту - countOfShip
+- Счетчик целых чисел - countInt
+- Первое число - firstNum
+- Ответ на вопрос - answer
+- Случайное число - randomNum
+- Генератор случайных чисел - randomNumGenerator
+- Цвет автомобиля - carColor
+- Скорость движения автомобиля - carSpeed
+- Введеное число пользователем - userNum
+- Наибольшее число - maxNum
+- Наименьшее число - minNum
+- Левая граница диапазона чисел - leftBorderOfNumbers
+- Правая граница диапазона чисел  - rightBorderOfNumbers
+- Загаданное пользователем число - userGuessedNumber
+- Вариант ответа - possibleAnswer
+- Банковский счет - bankAccount
+- Банковский баланс - bankBalance
+- Кредитная карта - creditCard
+- Количество колес у велосипеда - countWheelsOfBicycle
+- Стоимость билета - ticketPrice
