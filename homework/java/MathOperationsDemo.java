@@ -3,6 +3,14 @@ package Lessons;
 public class MathOperationsDemo {
     int a;
     int b;
+    
+    public static void main(String[] args) {
+        System.out.println(addition(5,2));
+        System.out.println(subtraction(6,1));
+        System.out.println(multiplication(5,9));
+        System.out.println(division(6,2));
+    }
+    
     public static int addition( int a, int b){
         return a+b;
     }
@@ -24,10 +32,5 @@ public class MathOperationsDemo {
         } return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println(addition(5,2));
-        System.out.println(subtraction(6,1));
-        System.out.println(multiplication(5,9));
-        System.out.println(division(6,2));
-    }
+    
 }
