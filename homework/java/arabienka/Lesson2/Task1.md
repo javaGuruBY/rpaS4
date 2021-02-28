@@ -1,6 +1,6 @@
 Количество кораблей в порту -countShipInPort
 Счетчик целых чисел - countIntNumb
-Первое число - oneNumb
+Первое число - firstNumb
 Ответ на вопрос - answQuestion
 Случайное число - randomNumb
 Генератор случайных чисел genRundomNumb
