@@ -7,19 +7,22 @@ package by.jrr.start;
 2. Посчитать сумму этих чисел и вывести результат на экран.
  */
 
+import java.util.Random;
+
 public class RandomGeneratorDemo {
     public static void main(String[] args) {
-        int maxNum = 1000;
-        int sum = 0;
-        for (int i = 0; i < 3; i++) {
-            int num = random(maxNum);
-            System.out.println("Число №" + (i + 1) + " = " + num);
-            sum += num;
-        }
-        System.out.println("Сумма сулучайных чисел sum = " + sum);
+        random();
     }
 
-    public static int random(int maxNum) {
-        return (int) (Math.random() * maxNum);
+    public static void random() {
+        Random random = new Random();
+        int sum = 0;
+        int max = 10;
+        for (int i = 1; i <= 3; i++) {
+            int randomNum = random.nextInt(max) + 1;
+            System.out.println("Число #" + i + " " + randomNum);
+            sum += randomNum;
+        }
+        System.out.println("Сумма случайных чисел равна " + sum);
     }
 }
