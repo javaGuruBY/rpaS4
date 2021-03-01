@@ -15,6 +15,6 @@ public class RandomGeneratorDemo {
             System.out.println("Рандомное число №" + i + " = " + numberRandom);
             sum = sum + numberRandom;
         }
-        System.out.println("Сумма рандомных значение = " + sum);
+        System.out.println("Сумма рандомных значений = " + sum);
     }
 }
