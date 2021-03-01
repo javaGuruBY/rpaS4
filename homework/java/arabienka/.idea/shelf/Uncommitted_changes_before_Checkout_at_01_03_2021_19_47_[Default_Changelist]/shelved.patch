@@ -1,0 +1,100 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0dbc7a1c-e581-4ca0-938a-b8694502542e\" name=\"Default Changelist\" comment=\"MathOperationsDemo - new lesson2\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/../../..\" value=\"rpa4_arabiyenka_feacher_1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../../..\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1pA1jqW3u0bErGLpoYN8P1rY0au\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\User\\Desktop\\JRR4_NEW\\homework\\java\\arabienka\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunAnythingCache\">\r\n    <option name=\"myCommands\">\r\n      <command value=\"mvn verify sonar:sonar\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.MathOperationsDemo\">\r\n    <configuration name=\"Application\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"by.jrr.start.Application\" />\r\n      <module name=\"task1\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"by.jrr.start.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MathOperationsDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"MathOperationsDemo\" />\r\n      <module name=\"task1\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.MathOperationsDemo\" />\r\n        <item itemvalue=\"Application.Application\" />\r\n        <item itemvalue=\"Application.Application\" />\r\n        <item itemvalue=\"Application.Application\" />\r\n        <item itemvalue=\"Application.Application\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0dbc7a1c-e581-4ca0-938a-b8694502542e\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1614611226038</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1614611226038</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"MathOperationsDemo - new lesson2\">\r\n      <created>1614614373451</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1614614373451</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"MathOperationsDemo - new lesson2\">\r\n      <created>1614614407764</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1614614407764</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"MathOperationsDemo - new lesson2\">\r\n      <created>1614614441218</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1614614441218</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"MathOperationsDemo - new lesson2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"MathOperationsDemo - new lesson2\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 65584cbeda2f77da45f834e18f5fe6a131da9a83)
++++ b/.idea/workspace.xml	(date 1614616133332)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="0dbc7a1c-e581-4ca0-938a-b8694502542e" name="Default Changelist" comment="MathOperationsDemo - new lesson2" />
++    <list default="true" id="0dbc7a1c-e581-4ca0-938a-b8694502542e" name="Default Changelist" comment="initial commit">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/arabienko/MathOperationsDemo.java" beforeDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -41,6 +44,9 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+   </component>
+   <component name="RecentsManager">
++    <key name="CreateClassDialog.RecentsKey">
++      <recent name="io.github.arabienko" />
++    </key>
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\User\Desktop\JRR4_NEW\homework\java\arabienka" />
+     </key>
+@@ -50,7 +56,7 @@
+       <command value="mvn verify sonar:sonar" />
+     </option>
+   </component>
+-  <component name="RunManager" selected="Application.MathOperationsDemo">
++  <component name="RunManager" selected="Application.MathOperationsDemo (1)">
+     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="by.jrr.start.Application" />
+       <module name="task1" />
+@@ -64,6 +70,19 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration name="MathOperationsDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="io.github.arabienko.MathOperationsDemo" />
++      <module name="task1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="io.github.arabienko.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="MathOperationsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="MathOperationsDemo" />
+       <module name="task1" />
+@@ -73,11 +92,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.MathOperationsDemo (1)" />
+         <item itemvalue="Application.MathOperationsDemo" />
+         <item itemvalue="Application.Application" />
+         <item itemvalue="Application.Application" />
+         <item itemvalue="Application.Application" />
+-        <item itemvalue="Application.Application" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -111,7 +130,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1614614441218</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="initial commit">
++      <created>1614614915612</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1614614915612</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -128,6 +154,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="MathOperationsDemo - new lesson2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="MathOperationsDemo - new lesson2" />
++    <MESSAGE value="initial commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+   </component>
+ </project>
+\ No newline at end of file
