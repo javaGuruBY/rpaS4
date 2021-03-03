@@ -27,8 +27,14 @@ public class CircleTest {
     }
 
     @Test
-    public void calculateArea_infinity() {
+    public void calculateArea_positiveInfinity() {
         circle.setRadius(Double.POSITIVE_INFINITY);
+        Assert.assertEquals(0.0, circle.calculateArea(), 0);
+    }
+
+    @Test
+    public void calculateArea_NaN() {
+        circle.setRadius(Double.NaN);
         Assert.assertEquals(0.0, circle.calculateArea(), 0);
     }
 }

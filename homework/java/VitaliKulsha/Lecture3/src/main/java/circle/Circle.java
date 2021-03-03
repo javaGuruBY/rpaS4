@@ -1,7 +1,5 @@
 package circle;
 
-import static java.lang.Double.NaN;
-
 public class Circle {
     double radius;
 
@@ -13,10 +11,10 @@ public class Circle {
     }
 
     double calculateArea() {
-        if (radius > 0) {
+        if (radius > 0 && radius != Double.POSITIVE_INFINITY) {
             return Math.PI * (radius * radius);
         } else {
-            System.out.println("Радиус имеет отрицательное значение.");
+            System.out.println("Радиус задан неверно. Возвращен \'0\'.");
             return 0;
         }
     }
