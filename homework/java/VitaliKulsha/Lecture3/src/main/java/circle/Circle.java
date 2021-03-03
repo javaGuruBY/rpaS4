@@ -10,11 +10,11 @@ public class Circle {
     public Circle() {
     }
 
-    double calculateArea() {
+    public double calculateArea() {
         if (radius > 0 && radius != Double.POSITIVE_INFINITY) {
             return Math.PI * (radius * radius);
         } else {
-            System.out.println("Радиус задан неверно. Возвращен \'0\'.");
+            System.out.println("Radius set incorrectly. Return 0.");
             return 0;
         }
     }
