@@ -1,5 +1,7 @@
 package circle;
 
+import static java.lang.Double.NaN;
+
 public class Circle {
     double radius;
 
@@ -11,7 +13,12 @@ public class Circle {
     }
 
     double calculateArea() {
-        return Math.PI * (radius * radius);
+        if (radius > 0) {
+            return Math.PI * (radius * radius);
+        } else {
+            System.out.println("Радиус имеет отрицательное значение.");
+            return 0;
+        }
     }
 
     public double getRadius() {
