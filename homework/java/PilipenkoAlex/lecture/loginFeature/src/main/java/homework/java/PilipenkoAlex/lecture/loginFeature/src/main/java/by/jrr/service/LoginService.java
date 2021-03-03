@@ -1,5 +1,4 @@
 package homework.java.PilipenkoAlex.lecture.loginFeature.src.main.java.by.jrr.service;
-
 import homework.java.PilipenkoAlex.lecture.loginFeature.src.main.java.by.jrr.bean.User;
 
 public class LoginService {
