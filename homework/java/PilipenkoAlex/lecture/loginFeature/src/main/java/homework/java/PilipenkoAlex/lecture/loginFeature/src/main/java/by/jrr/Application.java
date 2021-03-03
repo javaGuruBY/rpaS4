@@ -1,4 +1,4 @@
-package homework.java.PilipenkoAlex.lecture.loginFeature.src.main.java.by.jrr.start;
+package homework.java.PilipenkoAlex.lecture.loginFeature.src.main.java.by.jrr.bean;
 
 public class Application {
 
