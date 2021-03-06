@@ -1,4 +1,4 @@
-## This is Acceptence Criteria shared
+## This is Acceptance Criteria shared
 ## technologies
 ## java11
 ## sonarCube selfHosted
