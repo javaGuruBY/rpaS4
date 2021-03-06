@@ -1,5 +1,6 @@
 ## This is Acceptence Criteria shared
 ## technologies
 ## java11
-## sonarCube Cloud
+## sonarCube selfHosted
 ## Maven
+## H2 DataBase
