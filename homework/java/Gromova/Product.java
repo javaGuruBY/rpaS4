@@ -11,7 +11,7 @@ public class Product {
         }
 
         public void printInformation(){
-            System.out.println("name = " + name +", regular price = "+regularPrice +" EUR, discount = "+discount+"%, actual price = "+actualPrice()+" EUR");
+            System.out.println("Product : name = " + name +", regular price = "+regularPrice +" EUR, discount = "+discount+"%, actual price = "+actualPrice()+" EUR");
     }
 }
 class ProductDemo{
