@@ -1,22 +1,18 @@
 package io.github.asanovs.telegrambot.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.github.asanovs.telegrambot.config.Mapper;
-import org.junit.jupiter.api.Assertions;
+import io.github.asanovs.telegrambot.TelegrambotApplicationTests;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 import java.io.File;
 import java.io.IOException;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-@SpringBootTest(classes = {TelegramBot.class, Mapper.class, MessageService.class})
-class MessageServiceTest {
+class MessageServiceTest extends TelegrambotApplicationTests {
 
     @Autowired
     TelegramBot telegramBot;
