@@ -1,0 +1,42 @@
+{
+  "update_id": 460451115,
+  "message": {
+    "chatId": 322152117,
+    "groupMessage": false,
+    "userMessage": true,
+    "channelMessage": false,
+    "superGroupMessage": false,
+    "command": true,
+    "reply": false,
+    "message_id": 5,
+    "from": {
+      "bot": false,
+      "id": 322152117,
+      "first_name": "Сергей",
+      "is_bot": false,
+      "last_name": "Асанов",
+      "username": "sergey_asanov",
+      "language_code": "ru"
+    },
+    "date": 1615577510,
+    "chat": {
+      "groupChat": false,
+      "userChat": true,
+      "channelChat": false,
+      "superGroupChat": false,
+      "id": 322152117,
+      "type": "private",
+      "first_name": "Сергей",
+      "last_name": "Асанов",
+      "username": "sergey_asanov"
+    },
+    "text": "/start",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}
