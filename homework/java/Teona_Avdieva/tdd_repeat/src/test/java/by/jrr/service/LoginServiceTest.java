@@ -25,12 +25,6 @@ public class LoginServiceTest {
         Assert.assertTrue(actualResult);
     }
 
-    private User getUser() {
-        User user = new User();
-        user.setPassword("password");
-        return user;
-    }
-
     @Test
     public void checkUserPassword_negative() {
         User user = getUser();
@@ -40,6 +34,10 @@ public class LoginServiceTest {
         Assert.assertFalse(actualResult);
     }
 
-
+    private User getUser() {
+        User user = new User();
+        user.setPassword("password");
+        return user;
+    }
 
 }
